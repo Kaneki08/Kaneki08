@@ -1,5 +1,15 @@
-## Hi there 👋
-
+# Hello! I'm Derick 👋  
+I am currently a student at the University of California, Irvine, pursuing a degree in Computer Engineering. My passion for technology is fueled by a deep curiosity and a drive to explore the vast opportunities within the field.  
+## 🌱What I’m Learning  
+Through my coursework and hands-on projects, I’ve built a strong foundation in computer science and leadership. I enjoy learning new skills, experimenting with technology, and embracing challenges that push me to grow.  
+## 🚀 My Goals
+Expand my knowledge in software development, hardware design, and networking.  
+Leverage my technical skills to contribute to meaningful projects that positively impact my community.  
+Foster a supportive environment for others aspiring to succeed in STEM by serving as a role model and mentor.  
+## 🔗 Let's Connect!  
+[LinkedIn](https://www.linkedin.com/in/derick-barrientos-903912166/)  
+Email: Derickalexander98@gmail.com  
+I’m always open to collaborating on exciting projects or discussing new ideas, so feel free to reach out!
 <!--
 **Kaneki08/Kaneki08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
